@@ -1,0 +1,14 @@
+C:\Users\GULTAJ\OneDrive\Desktop\Collections\Task(Collections)\Task(Collections)\bin\Debug\netcoreapp3.1\Task(Collections).exe
+C:\Users\GULTAJ\OneDrive\Desktop\Collections\Task(Collections)\Task(Collections)\bin\Debug\netcoreapp3.1\Task(Collections).deps.json
+C:\Users\GULTAJ\OneDrive\Desktop\Collections\Task(Collections)\Task(Collections)\bin\Debug\netcoreapp3.1\Task(Collections).runtimeconfig.json
+C:\Users\GULTAJ\OneDrive\Desktop\Collections\Task(Collections)\Task(Collections)\bin\Debug\netcoreapp3.1\Task(Collections).runtimeconfig.dev.json
+C:\Users\GULTAJ\OneDrive\Desktop\Collections\Task(Collections)\Task(Collections)\bin\Debug\netcoreapp3.1\Task(Collections).dll
+C:\Users\GULTAJ\OneDrive\Desktop\Collections\Task(Collections)\Task(Collections)\bin\Debug\netcoreapp3.1\Task(Collections).pdb
+C:\Users\GULTAJ\OneDrive\Desktop\Collections\Task(Collections)\Task(Collections)\obj\Debug\netcoreapp3.1\Task(Collections).csproj.AssemblyReference.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Collections\Task(Collections)\Task(Collections)\obj\Debug\netcoreapp3.1\Task(Collections).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GULTAJ\OneDrive\Desktop\Collections\Task(Collections)\Task(Collections)\obj\Debug\netcoreapp3.1\Task(Collections).AssemblyInfoInputs.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Collections\Task(Collections)\Task(Collections)\obj\Debug\netcoreapp3.1\Task(Collections).AssemblyInfo.cs
+C:\Users\GULTAJ\OneDrive\Desktop\Collections\Task(Collections)\Task(Collections)\obj\Debug\netcoreapp3.1\Task(Collections).csproj.CoreCompileInputs.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Collections\Task(Collections)\Task(Collections)\obj\Debug\netcoreapp3.1\Task(Collections).dll
+C:\Users\GULTAJ\OneDrive\Desktop\Collections\Task(Collections)\Task(Collections)\obj\Debug\netcoreapp3.1\Task(Collections).pdb
+C:\Users\GULTAJ\OneDrive\Desktop\Collections\Task(Collections)\Task(Collections)\obj\Debug\netcoreapp3.1\Task(Collections).genruntimeconfig.cache
